@@ -1,4 +1,4 @@
-<!-- Q4.Write a PHP Script to Get the Largest Key in an Array. -->
+<!-- Q3.Write a PHP Script to Get the Largest Key in an Array. -->
 <?php
 $arr = array(
     5 => "Apple",
